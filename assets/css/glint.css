@@ -362,7 +362,7 @@ a.contact-btn:hover i{
     content: "";
     height: 300px;
     width: 300px;
-    background: url(../images/about-shape.i) no-repeat;
+    background: url(../images/about-shape.svg) no-repeat;
     background-repeat: no-repeat;
     bottom: -22%;
     left: -15%;
